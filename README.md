@@ -1,18 +1,24 @@
 ![presentation](presentation.png)
-# #AboutMe
+# ❓ AboutMe
 
 👩‍🦰 Marie Charton
 
 🇫🇷 Dijon, France
 
-🌍 [My website](https://www.mariecharton.fr)
+📮 mariecharton21@gmail.com
 
 
-# #Code with
+</br>
+
+## 🌍 [My website](https://www.mariecharton.fr)
+
+</br>
+
+# 🔨Code with
 ![technos](techno.png)
 
 
-# #Hobbies
+# 🌞 Hobbies
 
 🎮 Video Games 👾
 
