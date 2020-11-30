@@ -7,10 +7,7 @@
 
 📮 mariecharton21@gmail.com
 
-
-</br>
-
-## 🌍 [My website](https://www.mariecharton.fr)
+🌍 [My website](https://www.mariecharton.fr)
 
 </br>
 
