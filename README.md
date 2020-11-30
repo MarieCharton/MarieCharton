@@ -1,5 +1,7 @@
+
 <div align="center">
 <font color= #ec7106>
+<font size="3">
 
 ![presentation](presentation.png)
 # ❓ AboutMe
@@ -12,7 +14,7 @@
 
 🌍 **[My website](https://www.mariecharton.fr)**
 
-[![presentation](linkedin.png)](https://www.linkedin.com/in/marie-charton/)
+[![linkdin](linkedin.png)](https://www.linkedin.com/in/marie-charton/)
 
 </br>
 
