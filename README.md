@@ -1,3 +1,6 @@
+<div align="center">
+<font color= #ec7106>
+
 ![presentation](presentation.png)
 # ❓ AboutMe
 
@@ -7,9 +10,10 @@
 
 📮 mariecharton21@gmail.com
 
-🌍 [My website](https://www.mariecharton.fr)
+🌍 **[My website](https://www.mariecharton.fr)**
 
-</br>
+
+
 
 # 🔨Code with
 ![technos](techno.png)
@@ -26,6 +30,8 @@
 📚 Books
 
 🛩️ Travel
+
+</div>
 
 
 
