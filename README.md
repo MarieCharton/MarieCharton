@@ -1,10 +1,10 @@
 
-<div align="center">
+<div style="font-family: FreeMono, monospace; font-size:12pt;" align="center">
 <font color= #ec7106>
-<font size="3">
 
 ![presentation](presentation.png)
 # ❓ AboutMe
+
 
 👩‍🦰 Marie Charton
 
