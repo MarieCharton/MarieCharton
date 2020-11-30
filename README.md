@@ -31,7 +31,7 @@
 
 🎲 Boardgames
 
-📺 SerieAddict
+📺 SeriesAddict
 
 📚 Books
 
