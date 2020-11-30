@@ -12,11 +12,15 @@
 
 🌍 **[My website](https://www.mariecharton.fr)**
 
+[![presentation](linkedin.png)](https://www.linkedin.com/in/marie-charton/)
 
-
+</br>
 
 # 🔨Code with
+
 ![technos](techno.png)
+
+</br>
 
 
 # 🌞 Hobbies
