@@ -10,6 +10,8 @@
 
 🇫🇷 Dijon, France
 
+Web Developer at WPChef
+
 📮 mariecharton21@gmail.com
 
 🌍 **[My website](https://www.mariecharton.fr)**
